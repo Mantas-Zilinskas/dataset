@@ -119,6 +119,202 @@
     {
       "Q": "Gyvūnas, kuris miaukia, yra", 
       "A": "katė"
+    },
+    {
+      "Q": "Kraujo spalva yra",
+      "A": "raudona"
+    },
+    {
+      "Q": "Automobilis važiuoja ant",
+      "A": "ratų"
+    },
+    {
+      "Q": "Batai dėvimi ant",
+      "A": "kojų"
+    },
+    {
+      "Q": "Paros metas po ryto vadinamas",
+      "A": "diena"
+    },
+    {
+      "Q": "Paros metas po dienos vadinamas",
+      "A": "vakaras"
+    },
+    {
+      "Q": "Paros metas po vakaro vadinamas",
+      "A": "naktis"
+    },
+    {
+      "Q": "Paros metas po nakties vadinamas",
+      "A": "rytas"
+    },
+    {
+      "Q": "Savaitės diena po pirmadienio yra",
+      "A": "antradienis"
+    },
+    {
+      "Q": "Savaitės diena po antradienio yra",
+      "A": "trečiadienis"
+    },
+    {
+      "Q": "Savaitės diena po trečiadienio yra",
+      "A": "ketvirtadienis"
+    },
+    {
+      "Q": "Savaitės diena po ketvirtadienio yra",
+      "A": "penktadienis"
+    },
+    {
+      "Q": "Savaitės diena po penktadienio yra",
+      "A": "šeštadienis"
+    },
+    {
+      "Q": "Savaitės diena po šeštadienio yra",
+      "A": "sekmadienis"
+    },
+    {
+      "Q": "Savaitės diena po sekmadienio yra",
+      "A": "pirmadienis"
+    },
+    {
+      "Q": "Nemunas yra Lietuvos",
+      "A": "upė"
+    },
+    {
+      "Q": "Trilapis dobilas turi tris",
+      "A": "lapus"
+    },
+    {
+      "Q": "Keturratis turi keturis",
+      "A": "ratus"
+    },
+    {
+      "Q": "Bičių pagamintas saldus produktas yra",
+      "A": "medus"
+    },
+    {
+      "Q": "Vištos deda",
+      "A": "kiaušinius"
+    },
+    {
+      "Q": "Žemė aplink Saulę apsisuka per",
+      "A": "metus"
+    },
+    {
+      "Q": "Pieno spalva yra",
+      "A": "balta"
+    },
+    {
+      "Q": "Dešimt centimetrų yra",
+      "A": "decimetras"
+    },
+    {
+      "Q": "Šimtas centimetrų yra",
+      "A": "metras"
+    },
+    {
+      "Q": "Tūkstantis metrų yra",
+      "A": "kilometras"
+    },
+    {
+      "Q": "Tūkstantis gramų yra",
+      "A": "kilogramas"
+    },
+    {
+      "Q": "Saulė leidžiasi",
+      "A": "vakaruose"
+    },
+    {
+      "Q": "Šiaurės Amerikos didžiausia valstybė yra",
+      "A": "Kanada"
+    },
+    {
+      "Q": "Italijos sostinė yra",
+      "A": "Roma"
+    },
+    {
+      "Q": "Prancūzijos sostinė yra",
+      "A": "Paryžius"
+    },
+    {
+      "Q": "Vokietijos valiuta yra",
+      "A": "euras"
+    },
+    {
+      "Q": "Lietus krenta",
+      "A": "žemyn"
+    },
+    {
+      "Q": "Įtaisas matuoti temperatūrai yra vadinamas",
+      "A": "termometru"
+    },
+    {
+      "Q": "Įtaisas matuoti svorį yra vadinamas",
+      "A": "svarstyklėmis"
+    },
+    {
+      "Q": "Pusmetis yra sudarytas iš šešių",
+      "A": "mėnesių"
+    },
+    {
+      "Q": "Dešimt metų yra",
+      "A": "dešimtmetis"
+    },
+    {
+      "Q": "Šimtmetis yra sudarytas iš 100",
+      "A": "metų"
+    },
+    {
+      "Q": "Mėnulis orbituoja aplink",
+      "A": "Žemę"
+    },
+    {
+      "Q": "Planeta artimiausia Saulei yra",
+      "A": "Merkurijus"
+    },
+    {
+      "Q": "Vanduo verdant virsta",
+      "A": "garais"
+    },
+    {
+      "Q": "Žmogaus širdis pumpuoja",
+      "A": "kraują"
+    },
+    {
+      "Q": "Didžiausias Žemės vandenynas yra",
+      "A": "Ramusis"
+    },
+    {
+      "Q": "Didžiausias Europos kalnas yra",
+      "A": "Elbrusas"
+    },
+    {
+      "Q": "Karštis kyla",
+      "A": "aukštyn"
+    },
+    {
+      "Q": "Šunys uosto",
+      "A": "nosimi"
+    },
+    {
+      "Q": "Miesto gyventojas vadinamas",
+      "A": "miestiečiu"
+    },
+    {
+      "Q": "Pėstininkai šachmatuose juda",
+      "A": "tiesiai"
+    },
+    {
+      "Q": "Lenkija yra kaimyninė Lietuvos",
+      "A": "šalis"
+    },
+    {
+      "Q": "Latvija yra kaimyninė Lietuvos",
+      "A": "šalis"
+    },
+    {
+      "Q": "Baltarusija yra kaimyninė Lietuvos",
+      "A": "šalis"
     }
   ]
 }
