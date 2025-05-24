@@ -2,7 +2,7 @@
   "content": [
     {
       "Q": "Gitanas Nausėda yra Lietuvos",
-      "A": "prezidentas"
+      "A": ["prezidentas", "pilietis"]
     },
     {
       "Q": "Lietuvos sostinė yra",
@@ -10,7 +10,7 @@
     },
     {
       "Q": "Akmeninis stalas yra pagamintas iš",
-      "A": "akmens"
+      "A": ["akmens", "akmenų"]
     },
     {
       "Q": "Medinis šaukštas yra pagamintas iš",
@@ -30,7 +30,7 @@
     },
     {
       "Q": "Žmogus vaikšto ant",
-      "A": "kojų"
+      "A": ["kojų","žemės"]
     },
     {
       "Q": "Žuvys kvėpuoja per",
@@ -218,7 +218,7 @@
     },
     {
       "Q": "Saulė leidžiasi",
-      "A": "vakaruose"
+      "A": ["vakaruose","žemyn"]
     },
     {
       "Q": "Šiaurės Amerikos didžiausia valstybė yra",
@@ -261,7 +261,7 @@
       "A": "metų"
     },
     {
-      "Q": "Aplink kokį dangaus kūną juda Mėnulis?",
+      "Q": "Mėnulis juda aplink",
       "A": "Žemę"
     },
     {
