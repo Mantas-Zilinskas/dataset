@@ -208,7 +208,7 @@
     {
       "category": "matavimai",
       "Q": "Tūkstantis gramų yra",
-      "A": "kilogramas"
+      "A": "tona"
     },
     {
       "category": "gamta",
@@ -504,6 +504,81 @@
       "category": "daiktų savybės",
       "Q": "Dantų šepetukas skirtas valyti",
       "A": "dantis"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Tūkstantis mililitrų yra",
+      "A": "litras"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Šimtas arų yra",
+      "A": "hektaras"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Dvylika mėnesių yra",
+      "A": "metai"
+    }, 
+    {
+      "category": "matavimai",
+      "Q": "Tūkstantis vatų yra",
+      "A": "kilovatas"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Tūkstantis vatvalandžių yra",
+      "A": "kilovatvalandė"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Septynios dienos yra",
+      "A": "savaitė"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Šimtas kvadratinių metrų yra",
+      "A": "aras"
+    },
+    {
+      "category": "kultūra",
+      "Q": "Jonas Bilūnas yra",
+      "A": ["prozininkas", "publicistas", "rašytojas"]
+    },
+    {
+      "category": "kultūra",
+      "Q": "Biržeio dvidešimt ketvirtą dieną švenčiamos",
+      "A": "Joninės"
+    },
+    {
+      "category": "kultūra",
+      "Q": "Lietuvos didžiausias nacionalinis parkas yra",
+      "A": "Žemaitijos"
+    },
+    {
+      "category": "kultūra",
+      "Q": "Lietuvos valstybės herbas yra",
+      "A": "Vytis"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Trys tūkstančiai šeši šimtai sekundžių yra",
+      "A": "valanda"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Vienas kubinis decimetras yra",
+      "A": "litras"
+    },
+    {
+      "category": "matavimai",
+      "Q": "Tūkstantis miligramų yra",
+      "A": "kilogramas"
+    },
+    {
+      "category": "geografija",
+      "Q": "Ilgiausia pasaulio upė yra",
+      "A": "Nilas"
     }
   ]
 }
