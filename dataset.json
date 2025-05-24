@@ -42,7 +42,7 @@
     },
     {
       "Q": "Obelis duoda",
-      "A": "obuolius"
+      "A": ["obuolius", "vaisius"]
     },
     {
       "Q": "Kepurė dėvima ant",
@@ -50,7 +50,7 @@
     },
     {
       "Q": "Pirštinės dėvimos ant",
-      "A": "rankų"
+      "A": ["rankų", "rankos"]
     },
     {
       "Q": "Metų laiko ateinančio prieš rudenį pavadinamas yra",
@@ -90,10 +90,10 @@
     },
     {
       "Q": "Dviratis turi du", 
-      "A": "ratus"
+      "A": ["ratus", "pedalus"]
     },
     {
-      "Q": "Saulė šviečia dieną, o mėnulis", 
+      "Q": "Saulė šviečia dieną, o mėnulis šviečia", 
       "A": "naktį"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "Q": "Skruzdėlyne gyvena", 
-      "A": "skruzdėlės"
+      "A": ["skruzdėlės", "skruzdėlė"]
     },
     {
       "Q": "Antano vardas yra",
@@ -173,7 +173,7 @@
       "A": "pirmadienis"
     },
     {
-      "Q": "Nemunas yra Lietuvos",
+      "Q": "Nemūnas yra Lietuvos",
       "A": "upė"
     },
     {
@@ -397,7 +397,7 @@
       "A": "sekundžių"
     },
     {
-      "Q": "Linijuotės yra skirtos matuoti",
+      "Q": "Liniuostė yra skirtos matuoti",
       "A": "ilgį"
     }
   ]
