@@ -53,32 +53,8 @@
       "A": ["rankų", "rankos"]
     },
     {
-      "Q": "Metų laiko ateinančio prieš rudenį pavadinamas yra",
-      "A": "vasara"
-    },
-    {
-      "Q": "Metų laiko ateinančio prieš vasarą pavadinamas yra",
-      "A": "pavasaris"
-    },
-    {
-      "Q": "Metų laiko ateinančio prieš pavasarį pavadinamas yra",
-      "A": "žiema"
-    },
-    {
       "Q": "Metų laiko ateinančio prieš žiemą pavadinamas yra",
       "A": "ruduo"
-    },
-    {
-      "Q": "Metų laiko ateinančio po vasaros pavadinamas yra",
-      "A": "ruduo"
-    },
-    {
-      "Q": "Metų laiko ateinančio po rudens pavadinamas yra",
-      "A": "žiema"
-    },
-    {
-      "Q": "Metų laiko ateinančio po žiemos pavadinamas yra",
-      "A": "pavasaris"
     },
     {
       "Q": "Metų laiko ateinančio po pavasario pavadinamas yra",
@@ -143,30 +119,6 @@
     {
       "Q": "Paros metas po nakties vadinamas",
       "A": "rytu"
-    },
-    {
-      "Q": "Savaitės diena po pirmadienio yra",
-      "A": "antradienis"
-    },
-    {
-      "Q": "Savaitės diena po antradienio yra",
-      "A": "trečiadienis"
-    },
-    {
-      "Q": "Savaitės diena po trečiadienio yra",
-      "A": "ketvirtadienis"
-    },
-    {
-      "Q": "Savaitės diena po ketvirtadienio yra",
-      "A": "penktadienis"
-    },
-    {
-      "Q": "Savaitės diena po penktadienio yra",
-      "A": "šeštadienis"
-    },
-    {
-      "Q": "Savaitės diena po šeštadienio yra",
-      "A": "sekmadienis"
     },
     {
       "Q": "Savaitės diena po sekmadienio yra",
@@ -333,11 +285,11 @@
       "A": "Žemynas"
     },
     {
-      "Q": "Pirmoji grakų abėcėlės raidė yra",
+      "Q": "Pirmoji graikų abėcėlės raidė yra",
       "A": "alfa"
     },
     {
-      "Q": "Antroji grakų abėcėlės raidė yra",
+      "Q": "Antroji graikų abėcėlės raidė yra",
       "A": "beta"
     },
     {
