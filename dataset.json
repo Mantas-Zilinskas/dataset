@@ -454,6 +454,56 @@
       "category": "kultūra",
       "Q": "Onos Petrienės vardas yra",
       "A": "Ona"
+    },
+    {
+      "category": "geografija",
+      "Q": "Didžiausia šalis pagal plotą yra",
+      "A": "Rusija"
+    },
+    {
+      "category": "geografija",
+      "Q": "Didžiausia šalis pagal gyventojų skaičių yra",
+      "A": "Indija"
+    },
+    {
+      "category": "geografija",
+      "Q": "Didžiausia dykuma pasaulyje",
+      "A": ["Sacharos", "Sachara"]
+    },
+    {
+      "category": "geografija",
+      "Q": "Ilgiausia kalnų grandinė Europoje yra",
+      "A": "Uralas"
+    },
+    {
+      "category": "geografija",
+      "Q": "Aukščiausias pasaulio kalnas yra",
+      "A": "Everestas"
+    },
+    {
+      "category": "daiktų savybės",
+      "Q": "Stiklainis pagamintas iš",
+      "A": "stiklo"
+    },
+    {
+      "category": "daiktų savybės",
+      "Q": "Šaldytuvas yra skirtas laikyti",
+      "A": "maistą"
+    },
+    {
+      "category": "daiktų savybės",
+      "Q": "Cukrus gaminamas iš",
+      "A": "cukranendrių"
+    },
+    {
+      "category": "daiktų savybės",
+      "Q": "Dantų šepetukas skirtas valyti",
+      "A": "dantis"
+    },
+    {
+      "category": "daiktų savybės",
+      "Q": "Dantų šepetukas skirtas valyti",
+      "A": "dantis"
     }
   ]
 }
