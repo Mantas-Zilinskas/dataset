@@ -117,15 +117,11 @@
       "A": "Antanas"
     },
     {
-      "Q": "Gyvūnas, kuris miaukia, yra", 
-      "A": "katė"
-    },
-    {
       "Q": "Kraujo spalva yra",
       "A": "raudona"
     },
     {
-      "Q": "Automobilis važiuoja ant",
+      "Q": "Automobilis važiuoja ant keturių",
       "A": "ratų"
     },
     {
@@ -138,15 +134,15 @@
     },
     {
       "Q": "Paros metas po dienos vadinamas",
-      "A": "vakaras"
+      "A": "vakaru"
     },
     {
       "Q": "Paros metas po vakaro vadinamas",
-      "A": "naktis"
+      "A": "naktimi"
     },
     {
       "Q": "Paros metas po nakties vadinamas",
-      "A": "rytas"
+      "A": "rytu"
     },
     {
       "Q": "Savaitės diena po pirmadienio yra",
@@ -293,10 +289,6 @@
       "A": "aukštyn"
     },
     {
-      "Q": "Šunys uosto",
-      "A": "nosimi"
-    },
-    {
       "Q": "Miesto gyventojas vadinamas",
       "A": "miestiečiu"
     },
@@ -315,6 +307,98 @@
     {
       "Q": "Baltarusija yra kaimyninė Lietuvos",
       "A": "šalis"
+    },
+    {
+      "Q": "Diena trunka 24",
+      "A": "valandas"
+    },
+    {
+      "Q": "Didžiausia planeta Saulės sistemoje yra",
+      "A": "Jupiteris"
+    },
+    {
+      "Q": "Mažiausia planeta Saulės sistemoje yra",
+      "A": "Merkurijus"
+    },
+    {
+      "Q": "Alyva spaudžiama iš",
+      "A": "alyvuogių"
+    },
+    {
+      "Q": "Azija yra didžiausias pasaulio",
+      "A": "Žemynas"
+    },
+    {
+      "Q": "Australija yra mažiausias pasaulio",
+      "A": "Žemynas"
+    },
+    {
+      "Q": "Pirmoji grakų abėcėlės raidė yra",
+      "A": "alfa"
+    },
+    {
+      "Q": "Antroji grakų abėcėlės raidė yra",
+      "A": "beta"
+    },
+    {
+      "Q": "Arachnofobija yra vorų",
+      "A": "baimė"
+    },
+    {
+      "Q": "Proceso, kurio metu augalai paverčia saulės šviesą į energiją pavadinimas yra",
+      "A": "fotosintezė"
+    },
+    {
+      "Q": "cheminio elemento, kurio simbolis yra Cu pavadinimas yra",
+      "A": "varis"
+    },
+    {
+      "Q": "Vokietijos diktatoriaus pavardė antrojo pasaulinio karo metais buvo",
+      "A": "Hitleris"
+    },
+    {
+      "Q": "Sušis kilo iš šalies pavadinimu",
+      "A": "Japonija"     
+    },
+    {
+      "Q": "Lietuvos nacionalinis patiekas yra",
+      "A": "Cepelinai"
+    },
+    {
+      "Q": "Nacionalinis japonijos sportas vadinamas",
+      "A": "sumo"
+    },
+    {
+      "Q": "Mokslas studijuojantis paukščius vadinamas",
+      "A": "ornitologija"
+    },
+    {
+      "Q": "Mokslas studijuojantis uolienas vadinamas",
+      "A": "geologija"
+    },
+    {
+      "Q": "Pirmo metų mėnesio pavadinimas yra",
+      "A": "sausis"
+    },
+    {
+      "Q": "Paskutinio metų mėnesio pavadinimas yra",
+      "A": "gruodis"
+    },
+    {
+      "Q": "Planeta tolimiausia nuo saulės yra",
+      "A": "neptūnas"
+    },
+    { 
+      "Q": "Elektriniai automobiliai yra varomi", 
+      "A": "elektra" 
+    },
+    {
+      "Q": "Minutė turi šešiasdešimt",
+      "A": "sekundžių"
+    },
+    {
+      "Q": "Linijuotės yra skirtos matuoti",
+      "A": "ilgį"
     }
   ]
 }
