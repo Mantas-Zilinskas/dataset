@@ -14,7 +14,7 @@
     },
     {
       "Q": "Medinis šaukštas yra pagamintas iš",
-      "A": "medžio"
+      "A": ["medžio", "medienos"]
     },
     {
       "Q": "Geležinis kibiras yra pagamintas iš",
@@ -351,6 +351,26 @@
     {
       "Q": "Liniuotė yra skirta matuoti",
       "A": "ilgį"
+    },
+    {
+      "Q": "Žmogus ir bezdžionė turi bendrą",
+      "A": "protėvį"
+    },
+    {
+      "Q": "Latvijos sostinė yra",
+      "A": "Ryga"
+    },
+    {
+      "Q": "Didžiosios Britanijos sostinė yra",
+      "A": "Londonas"
+    },
+    {
+      "Q": "Petro Kazlausko pavardė yra",
+      "A": "Kazlauskas"
+    },
+    {
+      "Q": "Onos Petrienės vardas yra",
+      "A": "Ona"
     }
   ]
 }
