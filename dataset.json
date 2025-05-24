@@ -261,7 +261,7 @@
       "A": "metų"
     },
     {
-      "Q": "Mėnulis orbituoja aplink",
+      "Q": "Aplink kokį dangaus kūną juda Mėnulis?",
       "A": "Žemę"
     },
     {
@@ -321,7 +321,7 @@
       "A": "Merkurijus"
     },
     {
-      "Q": "Alyva spaudžiama iš",
+      "Q": "Alyvuogių aliejus yra spaudžiama iš",
       "A": "alyvuogių"
     },
     {
@@ -397,7 +397,7 @@
       "A": "sekundžių"
     },
     {
-      "Q": "Liniuostė yra skirtos matuoti",
+      "Q": "Liniuotė yra skirta matuoti",
       "A": "ilgį"
     }
   ]
