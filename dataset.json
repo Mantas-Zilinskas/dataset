@@ -1,374 +1,457 @@
 {
   "content": [
     {
+      "category": "kultūra",
       "Q": "Gitanas Nausėda yra Lietuvos",
       "A": ["prezidentas", "pilietis"]
     },
     {
+      "category": "geografija",
       "Q": "Lietuvos sostinė yra",
       "A": "Vilnius"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Akmeninis stalas yra pagamintas iš",
       "A": ["akmens", "akmenų"]
     },
     {
+      "category": "daiktų savybės",
       "Q": "Medinis šaukštas yra pagamintas iš",
       "A": ["medžio", "medienos"]
     },
     {
+      "category": "daiktų savybės",
       "Q": "Geležinis kibiras yra pagamintas iš",
       "A": "geležies"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Žolės spalva yra",
       "A": "žalia"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Medis ant kurio auga obuoliai yra vadinamas",
       "A": "obelimi"
     },
     {
+      "category": "gamta",
       "Q": "Žmogus vaikšto ant",
       "A": ["kojų","žemės"]
     },
     {
+      "category": "gamta",
       "Q": "Žuvys kvėpuoja per",
       "A": "žiaunas"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Laikrodis yra prietaisas, kuris rodo",
       "A": "laiką"
     },
     {
+      "category": "gamta",
       "Q": "Obelis duoda",
       "A": ["obuolius", "vaisius"]
     },
     {
+      "category": "daiktų savybės",
       "Q": "Kepurė dėvima ant",
       "A": "galvos"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Pirštinės dėvimos ant",
       "A": ["rankų", "rankos"]
     },
     {
+      "category": "gamta",
       "Q": "Metų laiko ateinančio prieš žiemą pavadinamas yra",
       "A": "ruduo"
     },
     {
+      "category": "gamta",
       "Q": "Metų laiko ateinančio po pavasario pavadinamas yra",
       "A": "vasara"
     },
     {
+      "category": "kultūra",
       "Q": "Pagrindinė kalba Lietuvoje yra", 
       "A": "lietuvių"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Dviratis turi du", 
       "A": ["ratus", "pedalus"]
     },
     {
+      "category": "gamta",
       "Q": "Saulė šviečia dieną, o mėnulis šviečia", 
       "A": "naktį"
     },
     {
+      "category": "kultūra",
       "Q": "Gitaristas groja", 
       "A": ["gitara", "dainą", "melodiją"]
     },
     {
+      "category": "kultūra",
       "Q": "Trimitininkas groja", 
       "A": ["trimitu", "dainą", "melodiją"]
     },
     {
+      "category": "kultūra",
       "Q": "Smuikininkas groja", 
       "A": ["smuiku", "dainą", "melodiją"]
     },
     {
+      "category": "gamta",
       "Q": "Skruzdėlyne gyvena", 
       "A": ["skruzdėlės", "skruzdėlė", "skruzdės", "skruzdė"]
     },
     {
+      "category": "kultūra",
       "Q": "Antano vardas yra",
       "A": "Antanas"
     },
     {
+      "category": "gamta",
       "Q": "Kraujo spalva yra",
       "A": "raudona"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Automobilis važiuoja ant keturių",
       "A": "ratų"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Batai dėvimi ant",
       "A": "kojų"
     },
     {
+      "category": "gamta",
       "Q": "Paros metas po ryto vadinamas",
       "A": "diena"
     },
     {
+      "category": "gamta",
       "Q": "Paros metas po dienos vadinamas",
       "A": "vakaru"
     },
     {
+      "category": "gamta",
       "Q": "Paros metas po vakaro vadinamas",
       "A": "naktimi"
     },
     {
+      "category": "gamta",
       "Q": "Paros metas po nakties vadinamas",
       "A": "rytu"
     },
     {
+      "category": "gamta",
       "Q": "Savaitės diena po sekmadienio yra",
       "A": "pirmadienis"
     },
     {
+      "category": "kultūra",
       "Q": "Nemunas yra Lietuvos",
       "A": "upė"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Trilapis dobilas turi tris",
       "A": "lapus"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Keturratis turi keturis",
       "A": "ratus"
     },
     {
+      "category": "gamta",
       "Q": "Bičių pagamintas saldus produktas yra",
       "A": "medus"
     },
     {
+      "category": "gamta",
       "Q": "Vištos deda",
       "A": "kiaušinius"
     },
     {
+      "category": "gamta",
       "Q": "Žemė aplink Saulę apsisuka per",
       "A": "metus"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Pieno spalva yra",
       "A": "balta"
     },
     {
+      "category": "matavimai",
       "Q": "Dešimt centimetrų yra",
       "A": "decimetras"
     },
     {
+      "category": "matavimai",
       "Q": "Šimtas centimetrų yra",
       "A": "metras"
     },
     {
+      "category": "matavimai",
       "Q": "Tūkstantis metrų yra",
       "A": "kilometras"
     },
     {
+      "category": "matavimai",
       "Q": "Tūkstantis gramų yra",
       "A": "kilogramas"
     },
     {
+      "category": "gamta",
       "Q": "Saulė leidžiasi",
       "A": ["vakaruose","žemyn"]
     },
     {
+      "category": "geografija",
       "Q": "Šiaurės Amerikos didžiausia valstybė yra",
       "A": "Kanada"
     },
     {
+      "category": "geografija",
       "Q": "Italijos sostinė yra",
       "A": "Roma"
     },
     {
+      "category": "geografija",
       "Q": "Prancūzijos sostinė yra",
       "A": "Paryžius"
     },
     {
+      "category": "geografija",
       "Q": "Vokietijos valiuta yra",
       "A": "euras"
     },
     {
+      "category": "gamta",
       "Q": "Lietus krenta",
       "A": "žemyn"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Įtaisas matuoti temperatūrai yra vadinamas",
       "A": "termometru"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Įtaisas matuoti svorį yra vadinamas",
       "A": "svarstyklėmis"
     },
     {
+      "category": "matavimai",
       "Q": "Pusmetis yra sudarytas iš šešių",
       "A": "mėnesių"
     },
     {
+      "category": "matavimai",
       "Q": "Dešimt metų yra",
       "A": "dešimtmetis"
     },
     {
+      "category": "matavimai",
       "Q": "Šimtmetis yra sudarytas iš 100",
       "A": "metų"
     },
     {
+      "category": "gamta",
       "Q": "Mėnulis juda aplink",
       "A": "Žemę"
     },
     {
+      "category": "gamta",
       "Q": "Planeta artimiausia Saulei yra",
       "A": "Merkurijus"
     },
     {
+      "category": "gamta",
       "Q": "Vanduo verdant virsta",
       "A": "garais"
     },
     {
+      "category": "gamta",
       "Q": "Žmogaus širdis pumpuoja",
       "A": "kraują"
     },
     {
+      "category": "geografija",
       "Q": "Didžiausias Žemės vandenynas yra",
       "A": "Ramusis"
     },
     {
+      "category": "geografija",
       "Q": "Didžiausias Europos kalnas yra",
       "A": "Elbrusas"
     },
     {
+      "category": "gamta",
       "Q": "Karštis kyla",
       "A": "aukštyn"
     },
     {
+      "category": "kultūra",
       "Q": "Miesto gyventojas vadinamas",
       "A": "miestiečiu"
     },
     {
+      "category": "kultūra",
       "Q": "Pėstininkai šachmatuose juda",
       "A": "tiesiai"
     },
     {
+      "category": "geografija",
       "Q": "Lenkija yra kaimyninė Lietuvos",
       "A": ["šalis", "valstybė"]
     },
     {
+      "category": "geografija",
       "Q": "Latvija yra kaimyninė Lietuvos",
       "A": ["šalis", "valstybė"]
     },
     {
+      "category": "geografija",
       "Q": "Baltarusija yra kaimyninė Lietuvos",
       "A": ["šalis", "valstybė"]
     },
     {
+      "category": "matavimai",
       "Q": "Diena trunka 24",
       "A": "valandas"
     },
     {
+      "category": "gamta",
       "Q": "Didžiausia planeta Saulės sistemoje yra",
       "A": "Jupiteris"
     },
     {
+      "category": "gamta",
       "Q": "Mažiausia planeta Saulės sistemoje yra",
       "A": "Merkurijus"
     },
     {
+      "category": "daiktų savybės",
       "Q": "Alyvuogių aliejus yra spaudžiamas iš",
       "A": "alyvuogių"
     },
     {
+      "category": "geografija",
       "Q": "Azija yra didžiausias pasaulio",
       "A": "Žemynas"
     },
     {
+      "category": "geografija",
       "Q": "Australija yra mažiausias pasaulio",
       "A": "Žemynas"
     },
     {
-      "Q": "Pirmoji graikų abėcėlės raidė yra",
-      "A": "alfa"
-    },
-    {
-      "Q": "Antroji graikų abėcėlės raidė yra",
-      "A": "beta"
-    },
-    {
+      "category": "kultūra",
       "Q": "Arachnofobija yra vorų",
       "A": "baimė"
     },
     {
+      "category": "gamta",
       "Q": "Proceso, kurio metu augalai paverčia saulės šviesą į energiją pavadinimas yra",
       "A": "fotosintezė"
     },
     {
+      "category": "gamta",
       "Q": "cheminio elemento, kurio simbolis yra Cu pavadinimas yra",
       "A": "varis"
     },
     {
+      "category": "kultūra",
       "Q": "Vokietijos diktatoriaus pavardė antrojo pasaulinio karo metais buvo",
       "A": "Hitleris"
     },
     {
+      "category": "kultūra",
       "Q": "Sušis kilo iš šalies pavadinimu",
       "A": "Japonija"     
     },
     {
+      "category": "kultūra",
       "Q": "Lietuvos nacionalinis patiekas yra",
       "A": "Cepelinai"
     },
     {
+      "category": "kultūra",
       "Q": "Nacionalinis japonijos sportas vadinamas",
       "A": "sumo"
     },
     {
+      "category": "gamta",
       "Q": "Mokslas studijuojantis paukščius vadinamas",
       "A": "ornitologija"
     },
     {
+      "category": "gamta",
       "Q": "Mokslas studijuojantis uolienas vadinamas",
       "A": "geologija"
     },
     {
+      "category": "gamta",
       "Q": "Pirmo metų mėnesio pavadinimas yra",
       "A": "sausis"
     },
     {
+      "category": "gamta",
       "Q": "Paskutinio metų mėnesio pavadinimas yra",
       "A": "gruodis"
     },
     {
+      "category": "gamta",
       "Q": "Planeta tolimiausia nuo saulės yra",
       "A": "neptūnas"
     },
     { 
+      "category": "daiktų savybės",
       "Q": "Elektriniai automobiliai yra varomi", 
       "A": "elektra" 
     },
     {
+      "category": "matavimai",
       "Q": "Minutė turi šešiasdešimt",
       "A": "sekundžių"
     },
     {
+      "category": "matavimai",
       "Q": "Liniuotė yra skirta matuoti",
       "A": "ilgį"
     },
     {
+      "category": "gamta",
       "Q": "Žmogus ir bezdžionė turi bendrą",
       "A": "protėvį"
     },
     {
+      "category": "geografija",
       "Q": "Latvijos sostinė yra",
       "A": "Ryga"
     },
     {
+      "category": "geografija",
       "Q": "Didžiosios Britanijos sostinė yra",
       "A": "Londonas"
     },
     {
+      "category": "kultūra",
       "Q": "Petro Kazlausko pavardė yra",
       "A": "Kazlauskas"
     },
     {
+      "category": "kultūra",
       "Q": "Onos Petrienės vardas yra",
       "A": "Ona"
     }
