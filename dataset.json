@@ -83,6 +83,42 @@
     {
       "Q": "Metų laiko ateinančio po pavasario pavadinamas yra",
       "A": "vasara"
+    },
+    {
+      "Q": "Pagrindinė kalba Lietuvoje yra", 
+      "A": "lietuvių"
+    },
+    {
+      "Q": "Dviratis turi du", 
+      "A": "ratus"
+    },
+    {
+      "Q": "Saulė šviečia dieną, o mėnulis", 
+      "A": "naktį"
+    },
+    {
+      "Q": "Gitaristas groja", 
+      "A": "gitara"
+    },
+    {
+      "Q": "Trimitininkas groja", 
+      "A": "trimitu"
+    },
+    {
+      "Q": "Smuikininkas groja", 
+      "A": "smuiku"
+    },
+    {
+      "Q": "Skruzdėlyne gyvena", 
+      "A": "skruzdėlės"
+    },
+    {
+      "Q": "Antano vardas yra",
+      "A": "Antanas"
+    },
+    {
+      "Q": "Gyvūnas, kuris miaukia, yra", 
+      "A": "katė"
     }
   ]
 }
