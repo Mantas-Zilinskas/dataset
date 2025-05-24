@@ -12,11 +12,6 @@
     },
     {
       "category": "daiktų savybės",
-      "Q": "Akmeninis stalas yra pagamintas iš",
-      "A": ["akmens", "akmenų", "uolienų"]
-    },
-    {
-      "category": "daiktų savybės",
       "Q": "Medinis šaukštas yra pagamintas iš",
       "A": ["medžio", "medienos"]
     },
@@ -41,11 +36,6 @@
       "A": ["kojų","žemės"]
     },
     {
-      "category": "gamta",
-      "Q": "Žuvys kvėpuoja per",
-      "A": "žiaunas"
-    },
-    {
       "category": "daiktų savybės",
       "Q": "Laikrodis yra prietaisas, kuris rodo",
       "A": "laiką"
@@ -57,18 +47,8 @@
     },
     {
       "category": "daiktų savybės",
-      "Q": "Kepurė dėvima ant",
-      "A": "galvos"
-    },
-    {
-      "category": "daiktų savybės",
       "Q": "Pirštinės dėvimos ant",
       "A": ["rankų", "rankos"]
-    },
-    {
-      "category": "gamta",
-      "Q": "Metų laiko ateinančio prieš žiemą pavadinamas yra",
-      "A": "ruduo"
     },
     {
       "category": "gamta",
@@ -137,21 +117,6 @@
     },
     {
       "category": "gamta",
-      "Q": "Paros metas po dienos vadinamas",
-      "A": "vakaru"
-    },
-    {
-      "category": "gamta",
-      "Q": "Paros metas po vakaro vadinamas",
-      "A": "naktimi"
-    },
-    {
-      "category": "gamta",
-      "Q": "Paros metas po nakties vadinamas",
-      "A": "rytu"
-    },
-    {
-      "category": "gamta",
       "Q": "Savaitės diena po sekmadienio yra",
       "A": "pirmadienis"
     },
@@ -174,11 +139,6 @@
       "category": "gamta",
       "Q": "Bičių pagamintas saldus produktas yra",
       "A": "medus"
-    },
-    {
-      "category": "gamta",
-      "Q": "Vištos deda",
-      "A": "kiaušinius"
     },
     {
       "category": "gamta",
@@ -267,18 +227,8 @@
     },
     {
       "category": "gamta",
-      "Q": "Mėnulis juda aplink",
-      "A": "Žemę"
-    },
-    {
-      "category": "gamta",
       "Q": "Planeta artimiausia Saulei yra",
       "A": "Merkurijus"
-    },
-    {
-      "category": "gamta",
-      "Q": "Vanduo verdant virsta",
-      "A": "garais"
     },
     {
       "category": "gamta",
@@ -336,11 +286,6 @@
       "A": "Jupiteris"
     },
     {
-      "category": "gamta",
-      "Q": "Mažiausia planeta Saulės sistemoje yra",
-      "A": "Merkurijus"
-    },
-    {
       "category": "daiktų savybės",
       "Q": "Alyvuogių aliejus yra spaudžiamas iš",
       "A": "alyvuogių"
@@ -364,11 +309,6 @@
       "category": "gamta",
       "Q": "Proceso, kurio metu augalai paverčia saulės šviesą į energiją pavadinimas yra",
       "A": "fotosintezė"
-    },
-    {
-      "category": "gamta",
-      "Q": "cheminio elemento, kurio simbolis yra Cu pavadinimas yra",
-      "A": "varis"
     },
     {
       "category": "kultūra",
@@ -402,18 +342,8 @@
     },
     {
       "category": "gamta",
-      "Q": "Pirmo metų mėnesio pavadinimas yra",
-      "A": "sausis"
-    },
-    {
-      "category": "gamta",
       "Q": "Paskutinio metų mėnesio pavadinimas yra",
       "A": "gruodis"
-    },
-    {
-      "category": "gamta",
-      "Q": "Planeta tolimiausia nuo saulės yra",
-      "A": "neptūnas"
     },
     { 
       "category": "daiktų savybės",
@@ -429,11 +359,6 @@
       "category": "matavimai",
       "Q": "Liniuotė yra skirta matuoti",
       "A": "ilgį"
-    },
-    {
-      "category": "gamta",
-      "Q": "Žmogus ir bezdžionė turi bendrą",
-      "A": "protėvį"
     },
     {
       "category": "geografija",
@@ -494,11 +419,6 @@
       "category": "daiktų savybės",
       "Q": "Cukrus gaminamas iš",
       "A": "cukranendrių"
-    },
-    {
-      "category": "daiktų savybės",
-      "Q": "Dantų šepetukas skirtas valyti",
-      "A": "dantis"
     },
     {
       "category": "daiktų savybės",
