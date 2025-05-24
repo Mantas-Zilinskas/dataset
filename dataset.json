@@ -98,19 +98,19 @@
     },
     {
       "Q": "Gitaristas groja", 
-      "A": "gitara"
+      "A": ["gitara", "dainą", "melodiją"]
     },
     {
       "Q": "Trimitininkas groja", 
-      "A": "trimitu"
+      "A": ["trimitu", "dainą", "melodiją"]
     },
     {
       "Q": "Smuikininkas groja", 
-      "A": "smuiku"
+      "A": ["smuiku", "dainą", "melodiją"]
     },
     {
       "Q": "Skruzdėlyne gyvena", 
-      "A": ["skruzdėlės", "skruzdėlė"]
+      "A": ["skruzdėlės", "skruzdėlė", "skruzdės", "skruzdė"]
     },
     {
       "Q": "Antano vardas yra",
@@ -298,15 +298,15 @@
     },
     {
       "Q": "Lenkija yra kaimyninė Lietuvos",
-      "A": "šalis"
+      "A": ["šalis", "valstybė"]
     },
     {
       "Q": "Latvija yra kaimyninė Lietuvos",
-      "A": "šalis"
+      "A": ["šalis", "valstybė"]
     },
     {
       "Q": "Baltarusija yra kaimyninė Lietuvos",
-      "A": "šalis"
+      "A": ["šalis", "valstybė"]
     },
     {
       "Q": "Diena trunka 24",
