@@ -7,6 +7,82 @@
     {
       "Q": "Lietuvos sostinė yra",
       "A": "Vilnius"
+    },
+    {
+      "Q": "Akmeninis stalas yra pagamintas iš",
+      "A": "akmens"
+    },
+    {
+      "Q": "Medinis šaukštas yra pagamintas iš",
+      "A": "medžio"
+    },
+    {
+      "Q": "Geležinis kibiras yra pagamintas iš",
+      "A": "geležies"
+    },
+    {
+      "Q": "Žolės spalva yra",
+      "A": "žalia"
+    },
+    {
+      "Q": "Medis ant kurio auga obuoliai yra vadinamas",
+      "A": "obelimi"
+    },
+    {
+      "Q": "Žmogus vaikšto ant",
+      "A": "kojų"
+    },
+    {
+      "Q": "Žuvys kvėpuoja per",
+      "A": "žiaunas"
+    },
+    {
+      "Q": "Laikrodis yra prietaisas, kuris rodo",
+      "A": "laiką"
+    },
+    {
+      "Q": "Obelis duoda",
+      "A": "obuolius"
+    },
+    {
+      "Q": "Kepurė dėvima ant",
+      "A": "galvos"
+    },
+    {
+      "Q": "Pirštinės dėvimos ant",
+      "A": "rankų"
+    },
+    {
+      "Q": "Metų laiko ateinančio prieš rudenį pavadinamas yra",
+      "A": "vasara"
+    },
+    {
+      "Q": "Metų laiko ateinančio prieš vasarą pavadinamas yra",
+      "A": "pavasaris"
+    },
+    {
+      "Q": "Metų laiko ateinančio prieš pavasarį pavadinamas yra",
+      "A": "žiema"
+    },
+    {
+      "Q": "Metų laiko ateinančio prieš žiemą pavadinamas yra",
+      "A": "ruduo"
+    },
+    {
+      "Q": "Metų laiko ateinančio po vasaros pavadinamas yra",
+      "A": "ruduo"
+    },
+    {
+      "Q": "Metų laiko ateinančio po rudens pavadinamas yra",
+      "A": "žiema"
+    },
+    {
+      "Q": "Metų laiko ateinančio po žiemos pavadinamas yra",
+      "A": "pavasaris"
+    },
+    {
+      "Q": "Metų laiko ateinančio po pavasario pavadinamas yra",
+      "A": "vasara"
     }
   ]
 }
